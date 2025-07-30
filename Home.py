@@ -323,13 +323,13 @@ def generate_sample_analytics():
 
 def main():
     # Define image paths
-    logo_path = "images/logo.jpg"
+    logo_path = "images/logo.jpeg"
     team_images = {
         "Bernardine Akorfa Gawu": "images/Akorfa.jpeg",
         "Abigail Amissah": "images/Awuni Daughter.jpeg",
-        "Samuel Asare": "images/Samuel.jpeg",
-        "Afful Francis Gyan": "images/Francis.jpeg",
-        "Gloria Odamtten": "images/Gloria.jpeg"
+        "Samuel Asare": "images/Sammy.jpeg",
+        "Afful Francis Gyan": "images/francis.jpeg",
+        "Gloria Odamtten": "images/Glor.jpeg"
     }
 
     # Check if the images directory exists
