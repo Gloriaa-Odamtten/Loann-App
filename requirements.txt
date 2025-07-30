@@ -7,3 +7,4 @@ matplotlib
 xgboost
 seaborn
 statsmodels
+reportlab
