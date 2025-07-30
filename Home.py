@@ -325,8 +325,8 @@ def main():
     # Define image paths
     logo_path = "images/logo.jpg"
     team_images = {
-        "Bernardine Akorfa Gawu": "images/Bernardine.jpeg",
-        "Abigail Amissah": "images/Abigail.jpeg",
+        "Bernardine Akorfa Gawu": "images/Akorfa.jpeg",
+        "Abigail Amissah": "images/Awuni Daughter.jpeg",
         "Samuel Asare": "images/Samuel.jpeg",
         "Afful Francis Gyan": "images/Francis.jpeg",
         "Gloria Odamtten": "images/Gloria.jpeg"
