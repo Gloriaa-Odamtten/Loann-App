@@ -6,4 +6,4 @@ scikit-learn
 matplotlib
 xgboost
 seaborn
-statsmodel
+statsmodels
