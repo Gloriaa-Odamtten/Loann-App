@@ -400,11 +400,11 @@ def main():
 
     # Define team members with image paths
     team_members = [
-        {"name": "Bernardine Akorfa Gawu", "id": "22253324", "role": "Data Scientist", "image": "images/Bernardine.jpeg"},
-        {"name": "Abigail Amissah", "id": "22253929", "role": "ML Engineer", "image": "images/Abigail.jpeg"},
-        {"name": "Samuel Asare", "id": "22253156", "role": "Full Stack Developer", "image": "images/Samuel.jpeg"},
-        {"name": "Afful Francis Gyan", "id": "22253332", "role": "Data Analyst", "image": "images/Francis.jpeg"},
-        {"name": "Gloria Odamtten", "id": "22252377", "role": "Project Manager", "image": "images/Gloria.jpeg"}
+        {"name": "Bernardine Akorfa Gawu", "id": "22253324", "role": "Data Scientist", "image": "images/Akorfa.jpeg"},
+        {"name": "Abigail Amissah", "id": "22253929", "role": "ML Engineer", "image": "images/Awuni Daughter.jpeg"},
+        {"name": "Samuel Asare", "id": "22253156", "role": "Full Stack Developer", "image": "images/Sammy.jpeg"},
+        {"name": "Afful Francis Gyan", "id": "22253332", "role": "Data Analyst", "image": "images/francis.jpeg"},
+        {"name": "Gloria Odamtten", "id": "22252377", "role": "Project Manager", "image": "images/Glor.jpeg"}
     ]
 
     # Display cards in columns
